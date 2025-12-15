@@ -1,4 +1,5 @@
 # guestbook
+<<<<<<< HEAD
 // TODO(user): Add simple overview of use/purpose
 
 ## Description
@@ -133,3 +134,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+=======
+operator for guestbooks
+>>>>>>> d5215854b218b1553baa69acf76f01871c56c957
